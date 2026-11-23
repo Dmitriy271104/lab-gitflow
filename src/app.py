@@ -1,2 +1,2 @@
-def greet(name):
-    return f"Hello, {name}"
+def greet_user(name):
+    return f"B: Hello, {name}"
